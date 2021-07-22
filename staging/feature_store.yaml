@@ -1,0 +1,3 @@
+project: staging
+registry: gs://feast-ci-demo-registry/staging/registry.db
+provider: gcp
